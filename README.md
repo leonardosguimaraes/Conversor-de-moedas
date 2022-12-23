@@ -2,7 +2,7 @@
 <br>
 
 ##  Objetivo
-Projeto proposto na formação do [DevClub](https://rodolfomori.com.br/devclub) para desenvolver habilidades relacionadas às tecnologias HTML, CSS e JavaScript.
+Projeto criado através da formação do [DevClub](https://rodolfomori.com.br/devclub) para desenvolver habilidades relacionadas às tecnologias HTML, CSS e JavaScript.
 <br>
 <br>
 
