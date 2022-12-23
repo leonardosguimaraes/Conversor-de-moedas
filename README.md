@@ -19,3 +19,8 @@ Projeto criado através da formação do [DevClub](https://rodolfomori.com.br/de
 </span>
 <br>
 <br>
+
+## Imagem do conversor de moedas
+<span>
+  <img src="https://github.com/leonardosguimaraes/Conversor-de-moedas/blob/master/assets/imagem%20conversor%20moedas.png?raw=true"/>
+<br>
